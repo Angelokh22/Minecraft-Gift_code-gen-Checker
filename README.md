@@ -16,6 +16,6 @@ The checker use your `Microsoft Minecraft Account`
 
 6. Then press `1` in the `Terminal` To resume the program
 
-7. sit back and let the program do his Job.
+7. Sit Back and let the program do his Job.
 
 Good Luck

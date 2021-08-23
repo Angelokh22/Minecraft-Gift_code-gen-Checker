@@ -2,7 +2,7 @@
 
 Minecraft Gift code Generator with Checker
 
-The checker use your `Microsift Minecraft Account`
+The checker use your `Microsoft Minecraft Account`
 
 1.If You Don't have a Minecraft Account With Microsoft, Go Create one
 
